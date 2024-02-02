@@ -1,0 +1,15 @@
+CountVectorizer
+KNNBasic
+NMF
+NormalPredictor
+cosine_similarity
+copy
+numpy
+pandas
+pickle
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
+streamlit
+streamlit_lottie
+streamlit_option_menu
+surprise
